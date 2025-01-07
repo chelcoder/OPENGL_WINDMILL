@@ -12,7 +12,7 @@ float scale_size = 1;
 int xform_mode = 0;
 
 #define XFORM_NONE    0
-#define XFORM_ROTATE  1
+#define XFORM_ROTATE  1 
 #define XFORM_SCALE 2
 
 int draw_axes = 0;
